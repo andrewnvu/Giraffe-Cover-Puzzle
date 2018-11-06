@@ -17,3 +17,6 @@
   
   Build, Installation and Setup:
 	-  Built using GNU CLISP 2.49, ran through MAC terminal
+
+
+Authors: Jonathan Moubayed and Andrew Vu
