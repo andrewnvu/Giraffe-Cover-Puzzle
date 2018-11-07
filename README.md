@@ -20,3 +20,5 @@
 
 
 Authors: Jonathan Moubayed and Andrew Vu
+
+Program made for Artificial Intelligence Course @ CSUF
